@@ -1,5 +1,7 @@
 # ISETOOLS
 
+> 适用于北航计组BUAA CO相关课程。
+
 Xilinx ISE 14.7 在 Windows 10/11 上的**修复 + 启动器封装 + 回滚**工具，**使用了Deepseek V4.1 Flash 1017开发**，实测在Windows 11 25H2上可完成全部功能。
 请谨慎使用，在不同机型上运行造成风险与开发者无关。
 
