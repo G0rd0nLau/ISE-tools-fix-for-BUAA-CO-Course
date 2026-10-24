@@ -9,7 +9,6 @@ ISE 14.7 是 2013 年的软件，在 Windows 11 机器上运行时可能由于VC
 
 - 版本：1.0.0
 - 平台：Windows 10 / 11（x64）
-- 运行时依赖：无（.NET Framework 4.x 是 Windows 自带组件）
 - 你需要准备的：
     - 已完成安装的ISE 14.7本体
     - 一份`Xilinx_ise.lic`许可证文件
@@ -96,7 +95,7 @@ HKLM\SYSTEM\CurrentControlSet\Control\NetworkProvider\HwOrder
 ### 命令行
 
 ```
-ISETOOLS.exe               启动 ISE（未安装过则打开向导）
+ISETOOLS.exe               启动 ISE
 ISETOOLS.exe --setup       打开修复向导
 ISETOOLS.exe --rollback    回滚
 ISETOOLS.exe --selftest    自检（退出码 0 = 全部通过）
